@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Ahuah-Debrah Prince Thomas, a BSc. Computer Science student at Palm University College, Ghana.
+## Hi there 👋, I'm Ahuah-Debrah Prince Thomas.
 
 - 🎓 BSc. Computer Science student at Palm University College, Ghana.
 - 🔭 I’m currently working on a project developed using Python.
