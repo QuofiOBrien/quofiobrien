@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a project developed using Python.
 - 🌱 I’m currently learning Python and exploring web development.
 - 👯 I’m looking to collaborate on Python-based projects.
-- 🤔 I am eager to learn Python||JavaScript||Java||C/C++||Ruby on Rails||Django (Python)||Go||Swift||Kotlin|| Rust
+- 🤔 I am eager to learn Python ||JavaScript ||Java ||C/C++ ||Ruby on Rails ||Django (Python) ||Go ||Swift ||Kotlin ||Rust
 - 📫 Reach me at: pahuah-debrah@palm.edu.gh
 - 😄 Pronouns: He/Him/His
 
